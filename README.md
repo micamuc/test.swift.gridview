@@ -1,3 +1,5 @@
 # test.swift.gridview
 
-priject for testing cocoa gridview
+project for testing cocoa gridview
+
+
